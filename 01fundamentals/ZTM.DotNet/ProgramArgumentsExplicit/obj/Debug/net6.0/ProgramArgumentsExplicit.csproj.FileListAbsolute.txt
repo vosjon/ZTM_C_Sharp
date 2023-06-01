@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net6.0\ProgramArgumentsExplicit.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net6.0\ProgramArgumentsExplicit.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net6.0\ProgramArgumentsExplicit.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net6.0\ProgramArgumentsExplicit.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net6.0\ProgramArgumentsExplicit.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ProgramArgumentsExplicit.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ProgramArgumentsExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ProgramArgumentsExplicit.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ProgramArgumentsExplicit.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ProgramArgumentsExplicit.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ProgramArgumentsExplicit.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\refint\ProgramArgumentsExplicit.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ProgramArgumentsExplicit.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ProgramArgumentsExplicit.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net6.0\ref\ProgramArgumentsExplicit.dll
