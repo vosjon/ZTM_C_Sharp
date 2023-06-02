@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\refint\ConsoleInput.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ref\ConsoleInput.dll
