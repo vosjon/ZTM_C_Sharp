@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\bin\Debug\net6.0\ExerciseTwo.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\refint\ExerciseTwo.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ExerciseTwo.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseTwo\obj\Debug\net6.0\ref\ExerciseTwo.dll

@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\bin\Debug\net6.0\ExerciseOne.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\refint\ExerciseOne.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ExerciseOne.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseOne\obj\Debug\net6.0\ref\ExerciseOne.dll
