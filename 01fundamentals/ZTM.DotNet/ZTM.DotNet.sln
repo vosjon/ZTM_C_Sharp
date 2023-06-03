@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchStatements", "SwitchStatements\SwitchStatements.csproj", "{2CB2D444-F740-4CD7-A9EB-10F8C9ECD9DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationStatements", "IterationStatements\IterationStatements.csproj", "{E406F7AD-4476-4E84-A8ED-5A3B1F3B8636}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2CB2D444-F740-4CD7-A9EB-10F8C9ECD9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CB2D444-F740-4CD7-A9EB-10F8C9ECD9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CB2D444-F740-4CD7-A9EB-10F8C9ECD9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E406F7AD-4476-4E84-A8ED-5A3B1F3B8636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E406F7AD-4476-4E84-A8ED-5A3B1F3B8636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E406F7AD-4476-4E84-A8ED-5A3B1F3B8636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E406F7AD-4476-4E84-A8ED-5A3B1F3B8636}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
