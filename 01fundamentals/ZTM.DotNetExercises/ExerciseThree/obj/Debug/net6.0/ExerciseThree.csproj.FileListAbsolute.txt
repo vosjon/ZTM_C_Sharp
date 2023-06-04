@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\bin\Debug\net6.0\ExerciseThree.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\refint\ExerciseThree.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ExerciseThree.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNetExercises\ExerciseThree\obj\Debug\net6.0\ref\ExerciseThree.dll
