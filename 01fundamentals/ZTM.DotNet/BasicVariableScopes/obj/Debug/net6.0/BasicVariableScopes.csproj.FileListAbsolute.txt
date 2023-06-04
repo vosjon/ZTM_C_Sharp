@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\bin\Debug\net6.0\BasicVariableScopes.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\bin\Debug\net6.0\BasicVariableScopes.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\bin\Debug\net6.0\BasicVariableScopes.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\bin\Debug\net6.0\BasicVariableScopes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\bin\Debug\net6.0\BasicVariableScopes.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\BasicVariableScopes.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\BasicVariableScopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\BasicVariableScopes.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\BasicVariableScopes.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\BasicVariableScopes.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\BasicVariableScopes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\refint\BasicVariableScopes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\BasicVariableScopes.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\BasicVariableScopes.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\01fundamentals\ZTM.DotNet\BasicVariableScopes\obj\Debug\net6.0\ref\BasicVariableScopes.dll
