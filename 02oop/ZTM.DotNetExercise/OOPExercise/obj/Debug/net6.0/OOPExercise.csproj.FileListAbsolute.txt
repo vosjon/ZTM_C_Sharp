@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\bin\Debug\net6.0\OOPExercise.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\refint\OOPExercise.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\OOPExercise.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNetExercise\OOPExercise\obj\Debug\net6.0\ref\OOPExercise.dll
