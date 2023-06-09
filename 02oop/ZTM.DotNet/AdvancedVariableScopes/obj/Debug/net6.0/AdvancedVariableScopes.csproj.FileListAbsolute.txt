@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\bin\Debug\net6.0\AdvancedVariableScopes.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\bin\Debug\net6.0\AdvancedVariableScopes.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\bin\Debug\net6.0\AdvancedVariableScopes.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\bin\Debug\net6.0\AdvancedVariableScopes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\bin\Debug\net6.0\AdvancedVariableScopes.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\AdvancedVariableScopes.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\AdvancedVariableScopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\AdvancedVariableScopes.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\AdvancedVariableScopes.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\AdvancedVariableScopes.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\AdvancedVariableScopes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\refint\AdvancedVariableScopes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\AdvancedVariableScopes.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\AdvancedVariableScopes.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\AdvancedVariableScopes\obj\Debug\net6.0\ref\AdvancedVariableScopes.dll
