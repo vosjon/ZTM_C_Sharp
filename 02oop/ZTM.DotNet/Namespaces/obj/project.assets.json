@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\02oop\\ZTM.DotNet\\BasicClass\\BasicClass.csproj",
-      "projectName": "BasicClass",
-      "projectPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\02oop\\ZTM.DotNet\\BasicClass\\BasicClass.csproj",
+      "projectUniqueName": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\02oop\\ZTM.DotNet\\Namespaces\\Namespaces.csproj",
+      "projectName": "Namespaces",
+      "projectPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\02oop\\ZTM.DotNet\\Namespaces\\Namespaces.csproj",
       "packagesPath": "C:\\Users\\jonjo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\02oop\\ZTM.DotNet\\BasicClass\\obj\\",
+      "outputPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\02oop\\ZTM.DotNet\\Namespaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
