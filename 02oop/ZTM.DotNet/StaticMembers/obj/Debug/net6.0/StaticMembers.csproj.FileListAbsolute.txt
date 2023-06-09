@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\bin\Debug\net6.0\StaticMembers.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\bin\Debug\net6.0\StaticMembers.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\bin\Debug\net6.0\StaticMembers.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\bin\Debug\net6.0\StaticMembers.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\bin\Debug\net6.0\StaticMembers.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\StaticMembers.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\StaticMembers.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\StaticMembers.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\StaticMembers.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\refint\StaticMembers.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\StaticMembers.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\StaticMembers.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\StaticMembers\obj\Debug\net6.0\ref\StaticMembers.dll
