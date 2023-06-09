@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\bin\Debug\net6.0\MethodOverloading.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\bin\Debug\net6.0\MethodOverloading.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\bin\Debug\net6.0\MethodOverloading.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\bin\Debug\net6.0\MethodOverloading.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\bin\Debug\net6.0\MethodOverloading.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\MethodOverloading.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\MethodOverloading.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\refint\MethodOverloading.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\MethodOverloading.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\MethodOverloading.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\02oop\ZTM.DotNet\MethodOverloading\obj\Debug\net6.0\ref\MethodOverloading.dll
