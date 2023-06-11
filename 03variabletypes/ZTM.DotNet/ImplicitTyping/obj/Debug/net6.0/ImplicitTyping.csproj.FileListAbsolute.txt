@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\bin\Debug\net6.0\ImplicitTyping.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\bin\Debug\net6.0\ImplicitTyping.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\bin\Debug\net6.0\ImplicitTyping.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\bin\Debug\net6.0\ImplicitTyping.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\bin\Debug\net6.0\ImplicitTyping.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ImplicitTyping.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ImplicitTyping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ImplicitTyping.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ImplicitTyping.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ImplicitTyping.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ImplicitTyping.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\refint\ImplicitTyping.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ImplicitTyping.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ImplicitTyping.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\ImplicitTyping\obj\Debug\net6.0\ref\ImplicitTyping.dll
