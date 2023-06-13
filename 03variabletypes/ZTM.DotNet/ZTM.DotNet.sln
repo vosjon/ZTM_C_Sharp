@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitTyping", "ImplicitTyping\ImplicitTyping.csproj", "{5B22A88D-3F01-401E-BC3A-2ED24C43F784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitTyping", "ImplicitTyping\ImplicitTyping.csproj", "{5B22A88D-3F01-401E-BC3A-2ED24C43F784}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Const", "Const\Const.csproj", "{7529767B-8D39-467D-A573-CFD2DFE5B94D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Const", "Const\Const.csproj", "{7529767B-8D39-467D-A573-CFD2DFE5B94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "Enumerations\Enumerations.csproj", "{22A113CE-B973-49CE-8970-AA59822B642D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7529767B-8D39-467D-A573-CFD2DFE5B94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7529767B-8D39-467D-A573-CFD2DFE5B94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7529767B-8D39-467D-A573-CFD2DFE5B94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A113CE-B973-49CE-8970-AA59822B642D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A113CE-B973-49CE-8970-AA59822B642D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A113CE-B973-49CE-8970-AA59822B642D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A113CE-B973-49CE-8970-AA59822B642D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
