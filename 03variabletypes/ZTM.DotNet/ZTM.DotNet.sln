@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerations", "Enumeration
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchExpressions", "SwitchExpressions\SwitchExpressions.csproj", "{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.csproj", "{53FEC4FC-21AA-4F72-AA79-81241F622C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FEC4FC-21AA-4F72-AA79-81241F622C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FEC4FC-21AA-4F72-AA79-81241F622C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FEC4FC-21AA-4F72-AA79-81241F622C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FEC4FC-21AA-4F72-AA79-81241F622C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
