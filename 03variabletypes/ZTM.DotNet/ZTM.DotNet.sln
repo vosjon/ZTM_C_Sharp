@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitTyping", "ImplicitT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Const", "Const\Const.csproj", "{7529767B-8D39-467D-A573-CFD2DFE5B94D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations", "Enumerations\Enumerations.csproj", "{22A113CE-B973-49CE-8970-AA59822B642D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerations", "Enumerations\Enumerations.csproj", "{22A113CE-B973-49CE-8970-AA59822B642D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchExpressions", "SwitchExpressions\SwitchExpressions.csproj", "{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{22A113CE-B973-49CE-8970-AA59822B642D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A113CE-B973-49CE-8970-AA59822B642D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A113CE-B973-49CE-8970-AA59822B642D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306C2FFA-3C36-4DEC-8E09-3FD793FE7DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

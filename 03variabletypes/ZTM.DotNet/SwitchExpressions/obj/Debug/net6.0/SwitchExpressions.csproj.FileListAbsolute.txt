@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\bin\Debug\net6.0\SwitchExpressions.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\bin\Debug\net6.0\SwitchExpressions.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\bin\Debug\net6.0\SwitchExpressions.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\bin\Debug\net6.0\SwitchExpressions.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\bin\Debug\net6.0\SwitchExpressions.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\SwitchExpressions.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\SwitchExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\SwitchExpressions.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\SwitchExpressions.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\SwitchExpressions.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\SwitchExpressions.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\refint\SwitchExpressions.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\SwitchExpressions.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\SwitchExpressions.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\03variabletypes\ZTM.DotNet\SwitchExpressions\obj\Debug\net6.0\ref\SwitchExpressions.dll

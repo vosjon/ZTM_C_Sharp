@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\03variabletypes\\ZTM.DotNet\\Enumerations\\Enumerations.csproj",
-      "projectName": "Enumerations",
-      "projectPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\03variabletypes\\ZTM.DotNet\\Enumerations\\Enumerations.csproj",
+      "projectUniqueName": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\03variabletypes\\ZTM.DotNet\\SwitchExpressions\\SwitchExpressions.csproj",
+      "projectName": "SwitchExpressions",
+      "projectPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\03variabletypes\\ZTM.DotNet\\SwitchExpressions\\SwitchExpressions.csproj",
       "packagesPath": "C:\\Users\\jonjo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\03variabletypes\\ZTM.DotNet\\Enumerations\\obj\\",
+      "outputPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\03variabletypes\\ZTM.DotNet\\SwitchExpressions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
