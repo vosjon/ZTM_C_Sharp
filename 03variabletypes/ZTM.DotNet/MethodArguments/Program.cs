@@ -4,6 +4,21 @@ Console.WriteLine($"rectangle height: {rectangle.Height}");
 MethodParameters.ChangeHeight(ref rectangle);
 Console.WriteLine($"rectangle height: {rectangle.Height}");
 
+// reference types
+var person = new Person("Jonathan Vos");
+Console.WriteLine($"Name: {person.Name}");
+
+MethodParameters.ChangeName(person);
+Console.WriteLine($"Name: {person.Name}");
+
+public class Person
+{
+    public Person(string name)
+    {
+        Name = name;
+    }
+    public string Name { get; set; }
+}
 
 public struct Rectangle
 {
@@ -18,6 +33,11 @@ public struct Rectangle
 
 public class MethodParameters
 {
+    public static void ChangeName(Person person)
+    {
+        person.Name = "Unknown";
+        person = new Person("John Wayne");
+    }
     public static void ChangeHeight(ref Rectangle rectangle)
     {
         rectangle.Height = 500;
