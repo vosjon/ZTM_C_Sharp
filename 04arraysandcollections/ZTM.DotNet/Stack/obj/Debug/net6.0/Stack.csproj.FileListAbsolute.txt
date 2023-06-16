@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\bin\Debug\net6.0\Stack.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\bin\Debug\net6.0\Stack.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\bin\Debug\net6.0\Stack.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\bin\Debug\net6.0\Stack.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\Stack.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\refint\Stack.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\Stack.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\04arraysandcollections\ZTM.DotNet\Stack\obj\Debug\net6.0\ref\Stack.dll
