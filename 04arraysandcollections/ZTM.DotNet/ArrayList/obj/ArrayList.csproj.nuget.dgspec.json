@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\ArrayList\\ArrayList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\ArrayList\\ArrayList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\Arrays\\Arrays.csproj",
-        "projectName": "Arrays",
-        "projectPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\ArrayList\\ArrayList.csproj",
+        "projectName": "ArrayList",
+        "projectPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\ArrayList\\ArrayList.csproj",
         "packagesPath": "C:\\Users\\jonjo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\04arraysandcollections\\ZTM.DotNet\\ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
