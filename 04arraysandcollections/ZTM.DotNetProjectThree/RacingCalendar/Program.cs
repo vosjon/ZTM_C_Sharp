@@ -6,7 +6,7 @@ Console.WriteLine("\nHere are the upcoming races:");
 
 var races = new Queue<Race>();
 
-var race1 = new Race("Beat the Heat", "17-Jun-23", "Rosamond", 1);
+var race1 = new Race("Beat the Heat", "17-Jun-23", "Rosamond Raceway", 1);
 var race2 = new Race("Need for Speed", "24-Jun-23", "Los Angeles Speedway", 2);
 var race3 = new Race("Bakersfield Thunder", "17-Jun-23", "Mechanics Bank Arena", 3);
 var race4 = new Race("The Semi Final Showdown", "1-Jul-23", "San Diego Speed Track", 4);
@@ -24,10 +24,10 @@ while (races.Count > 0)
     count++;
 }
 
-var race1Array = new Array[20];
-var race3Array = new Array[20];
-var race4Array = new Array[20];
-var race5Array = new Array[20];
+var race1Array = new Driver[20];
+var race2Array = new Driver[20];
+var race3Array = new Driver[20];
+var race4Array = new Driver[20];
 
 
 var waitlist1 = new Stack<Driver>();
@@ -89,3 +89,26 @@ drivers.Add(driver25);
 
 race1.AddDriver(race1Array, drivers, waitlist1);
 
+drivers.Reverse();
+
+race2.AddDriver(race2Array, drivers, waitlist2);
+
+drivers.Reverse();
+
+race3.AddDriver(race3Array, drivers, waitlist3);
+
+drivers.Reverse();
+
+race4.AddDriver(race4Array, drivers, waitlist4);
+
+race1.ReplaceDriver(waitlist1, race1Array);
+race1.RaceAnnouncement(race1Array);
+
+race2.ReplaceDriver(waitlist2, race2Array);
+race2.RaceAnnouncement(race2Array);
+
+race3.ReplaceDriver(waitlist3, race3Array);
+race3.RaceAnnouncement(race3Array);
+
+race4.ReplaceDriver(waitlist4, race4Array);
+race4.RaceAnnouncement(race4Array);

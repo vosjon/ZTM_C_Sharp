@@ -38,5 +38,34 @@ internal class Race
             }
             
         }
-    }   
+    }
+
+    public void ReplaceDriver(Stack<Driver> driverStack, Driver[] drivers)
+    {
+        Random random = new Random();
+        int stackLength = driverStack.Count;
+
+        for (int i = 0; i < stackLength; i++) 
+        {
+            var randomIndex = random.Next(0, drivers.Length);
+            var removedDriver = drivers[randomIndex];
+            Console.WriteLine($"Driver: {removedDriver.Name} cannot make the race.");
+
+            var newDriver = driverStack.Pop();
+            drivers[randomIndex] = newDriver;
+            Console.WriteLine($"Driver: {newDriver.Name} will be taking the place of {removedDriver.Name}.");
+        }
+            
+    }
+
+    public void RaceAnnouncement(Driver[] drivers)
+    {
+        Console.WriteLine($"Welcome to the {Name} here at {Track}!");
+        Console.WriteLine("Here is todays line up:");
+
+        foreach (var driver in drivers)
+        {
+            Console.WriteLine($"\t{driver.Name}");
+        }
+    }
 }
