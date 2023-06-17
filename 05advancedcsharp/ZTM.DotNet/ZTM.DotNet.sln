@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedArguments", "NamedArgu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalArguments", "OptionalArguments\OptionalArguments.csproj", "{914D04B5-A983-426D-BEEA-159E51C81666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{DDA8A3C7-9ADF-4250-BDB2-465DE80C1724}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{914D04B5-A983-426D-BEEA-159E51C81666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{914D04B5-A983-426D-BEEA-159E51C81666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{914D04B5-A983-426D-BEEA-159E51C81666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA8A3C7-9ADF-4250-BDB2-465DE80C1724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA8A3C7-9ADF-4250-BDB2-465DE80C1724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA8A3C7-9ADF-4250-BDB2-465DE80C1724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA8A3C7-9ADF-4250-BDB2-465DE80C1724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
