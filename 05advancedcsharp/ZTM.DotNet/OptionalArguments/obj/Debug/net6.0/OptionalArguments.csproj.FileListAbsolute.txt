@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\bin\Debug\net6.0\OptionalArguments.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\bin\Debug\net6.0\OptionalArguments.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\bin\Debug\net6.0\OptionalArguments.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\bin\Debug\net6.0\OptionalArguments.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\bin\Debug\net6.0\OptionalArguments.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\OptionalArguments.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\OptionalArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\OptionalArguments.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\OptionalArguments.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\OptionalArguments.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\OptionalArguments.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\refint\OptionalArguments.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\OptionalArguments.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\OptionalArguments.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\OptionalArguments\obj\Debug\net6.0\ref\OptionalArguments.dll
