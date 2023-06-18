@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\bin\Debug\net6.0\ExeciseOne.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\bin\Debug\net6.0\ExeciseOne.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\bin\Debug\net6.0\ExeciseOne.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\bin\Debug\net6.0\ExeciseOne.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\bin\Debug\net6.0\ExeciseOne.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ExeciseOne.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ExeciseOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ExeciseOne.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ExeciseOne.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ExeciseOne.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ExeciseOne.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\refint\ExeciseOne.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ExeciseOne.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ExeciseOne.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNetExercises\ExeciseOne\obj\Debug\net6.0\ref\ExeciseOne.dll
