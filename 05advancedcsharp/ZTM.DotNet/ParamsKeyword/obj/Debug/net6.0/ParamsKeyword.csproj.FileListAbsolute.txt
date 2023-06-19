@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\refint\ParamsKeyword.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ParamsKeyword\obj\Debug\net6.0\ref\ParamsKeyword.dll
