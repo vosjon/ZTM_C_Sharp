@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NullableValueTypes/1.0.0": {
+        "runtime": {
+          "NullableValueTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NullableValueTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
