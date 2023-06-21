@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableValueTypes", "Nulla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{939DD077-D694-4667-981F-FFDED680E8CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordTypes", "RecordTypes\RecordTypes.csproj", "{A1AAFD48-93D0-4DFA-91CA-3B66085A17A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{939DD077-D694-4667-981F-FFDED680E8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{939DD077-D694-4667-981F-FFDED680E8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{939DD077-D694-4667-981F-FFDED680E8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1AAFD48-93D0-4DFA-91CA-3B66085A17A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AAFD48-93D0-4DFA-91CA-3B66085A17A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AAFD48-93D0-4DFA-91CA-3B66085A17A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AAFD48-93D0-4DFA-91CA-3B66085A17A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
