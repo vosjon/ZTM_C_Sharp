@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\bin\Debug\net6.0\CustomExceptionTypes.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\bin\Debug\net6.0\CustomExceptionTypes.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\bin\Debug\net6.0\CustomExceptionTypes.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\bin\Debug\net6.0\CustomExceptionTypes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\bin\Debug\net6.0\CustomExceptionTypes.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\CustomExceptionTypes.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\CustomExceptionTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\CustomExceptionTypes.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\CustomExceptionTypes.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\CustomExceptionTypes.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\CustomExceptionTypes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\refint\CustomExceptionTypes.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\CustomExceptionTypes.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\CustomExceptionTypes.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\05advancedcsharp\ZTM.DotNet\ClassExceptionTypes\obj\Debug\net6.0\ref\CustomExceptionTypes.dll
