@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\bin\Debug\net6.0\LinqIntroduction.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\bin\Debug\net6.0\LinqIntroduction.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\bin\Debug\net6.0\LinqIntroduction.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\bin\Debug\net6.0\LinqIntroduction.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\bin\Debug\net6.0\LinqIntroduction.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\LinqIntroduction.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\LinqIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\LinqIntroduction.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\LinqIntroduction.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\LinqIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\LinqIntroduction.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\refint\LinqIntroduction.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\LinqIntroduction.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\LinqIntroduction.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqIntroduction\obj\Debug\net6.0\ref\LinqIntroduction.dll
