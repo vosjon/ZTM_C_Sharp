@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\bin\Debug\net6.0\LinqSelecting.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\bin\Debug\net6.0\LinqSelecting.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\bin\Debug\net6.0\LinqSelecting.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\bin\Debug\net6.0\LinqSelecting.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\bin\Debug\net6.0\LinqSelecting.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\LinqSelecting.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\LinqSelecting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\LinqSelecting.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\LinqSelecting.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\LinqSelecting.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\LinqSelecting.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\refint\LinqSelecting.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\LinqSelecting.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\LinqSelecting.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqSelecting\obj\Debug\net6.0\ref\LinqSelecting.dll

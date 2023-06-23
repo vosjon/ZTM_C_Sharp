@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqIntroduction", "LinqInt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOrdering", "LinqOrdering\LinqOrdering.csproj", "{4F1B11DE-1F99-4928-BB18-4DF95A686084}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSelecting", "LinqSelecting\LinqSelecting.csproj", "{93B7A15F-0F55-42F9-BA36-4843DBB64C19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4F1B11DE-1F99-4928-BB18-4DF95A686084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F1B11DE-1F99-4928-BB18-4DF95A686084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F1B11DE-1F99-4928-BB18-4DF95A686084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B7A15F-0F55-42F9-BA36-4843DBB64C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B7A15F-0F55-42F9-BA36-4843DBB64C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B7A15F-0F55-42F9-BA36-4843DBB64C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B7A15F-0F55-42F9-BA36-4843DBB64C19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
