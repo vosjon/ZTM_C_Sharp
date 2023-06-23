@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\bin\Debug\net6.0\LinqOrdering.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\bin\Debug\net6.0\LinqOrdering.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\bin\Debug\net6.0\LinqOrdering.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\bin\Debug\net6.0\LinqOrdering.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\bin\Debug\net6.0\LinqOrdering.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\LinqOrdering.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\LinqOrdering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\LinqOrdering.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\LinqOrdering.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\LinqOrdering.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\LinqOrdering.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\refint\LinqOrdering.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\LinqOrdering.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\LinqOrdering.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqOrdering\obj\Debug\net6.0\ref\LinqOrdering.dll

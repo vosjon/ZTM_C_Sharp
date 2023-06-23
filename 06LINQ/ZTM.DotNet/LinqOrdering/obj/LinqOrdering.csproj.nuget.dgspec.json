@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqIntroduction\\LinqIntroduction.csproj": {}
+    "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqOrdering\\LinqOrdering.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqIntroduction\\LinqIntroduction.csproj": {
+    "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqOrdering\\LinqOrdering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqIntroduction\\LinqIntroduction.csproj",
-        "projectName": "LinqIntroduction",
-        "projectPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqIntroduction\\LinqIntroduction.csproj",
+        "projectUniqueName": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqOrdering\\LinqOrdering.csproj",
+        "projectName": "LinqOrdering",
+        "projectPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqOrdering\\LinqOrdering.csproj",
         "packagesPath": "C:\\Users\\jonjo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqIntroduction\\obj\\",
+        "outputPath": "C:\\Users\\jonjo\\Documents\\ZTM_courses\\ZTM_C_Sharp\\06LINQ\\ZTM.DotNet\\LinqOrdering\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
