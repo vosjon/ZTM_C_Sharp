@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\bin\Debug\net6.0\LinqGrouping.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\bin\Debug\net6.0\LinqGrouping.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\bin\Debug\net6.0\LinqGrouping.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\bin\Debug\net6.0\LinqGrouping.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\bin\Debug\net6.0\LinqGrouping.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\LinqGrouping.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\LinqGrouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\LinqGrouping.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\LinqGrouping.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\LinqGrouping.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\LinqGrouping.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\refint\LinqGrouping.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\LinqGrouping.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\LinqGrouping.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqGrouping\obj\Debug\net6.0\ref\LinqGrouping.dll
