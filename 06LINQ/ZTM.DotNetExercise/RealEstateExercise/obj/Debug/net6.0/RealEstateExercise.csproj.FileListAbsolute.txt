@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\bin\Debug\net6.0\RealEstateExercise.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\bin\Debug\net6.0\RealEstateExercise.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\bin\Debug\net6.0\RealEstateExercise.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\bin\Debug\net6.0\RealEstateExercise.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\bin\Debug\net6.0\RealEstateExercise.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\RealEstateExercise.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\RealEstateExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\RealEstateExercise.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\RealEstateExercise.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\RealEstateExercise.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\RealEstateExercise.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\refint\RealEstateExercise.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\RealEstateExercise.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\RealEstateExercise.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNetExercise\RealEstateExercise\obj\Debug\net6.0\ref\RealEstateExercise.dll
