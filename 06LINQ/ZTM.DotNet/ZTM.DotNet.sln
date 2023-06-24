@@ -5,11 +5,13 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqIntroduction", "LinqIntroduction\LinqIntroduction.csproj", "{946AFFC0-7889-4929-A678-0672ECF04142}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOrdering", "LinqOrdering\LinqOrdering.csproj", "{4F1B11DE-1F99-4928-BB18-4DF95A686084}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqOrdering", "LinqOrdering\LinqOrdering.csproj", "{4F1B11DE-1F99-4928-BB18-4DF95A686084}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSelecting", "LinqSelecting\LinqSelecting.csproj", "{93B7A15F-0F55-42F9-BA36-4843DBB64C19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqSelecting", "LinqSelecting\LinqSelecting.csproj", "{93B7A15F-0F55-42F9-BA36-4843DBB64C19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqGrouping", "LinqGrouping\LinqGrouping.csproj", "{91CC289E-F673-4573-BCE8-654888429D8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqGrouping", "LinqGrouping\LinqGrouping.csproj", "{91CC289E-F673-4573-BCE8-654888429D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQuerySyntax", "LinqQuerySyntax\LinqQuerySyntax.csproj", "{2AE6A537-B97F-497D-9B73-2ACAC7CCD172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{91CC289E-F673-4573-BCE8-654888429D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91CC289E-F673-4573-BCE8-654888429D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91CC289E-F673-4573-BCE8-654888429D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE6A537-B97F-497D-9B73-2ACAC7CCD172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE6A537-B97F-497D-9B73-2ACAC7CCD172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE6A537-B97F-497D-9B73-2ACAC7CCD172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE6A537-B97F-497D-9B73-2ACAC7CCD172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

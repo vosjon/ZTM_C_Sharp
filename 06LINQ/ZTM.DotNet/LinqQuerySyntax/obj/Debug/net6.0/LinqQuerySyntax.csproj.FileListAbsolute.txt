@@ -1,0 +1,15 @@
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\bin\Debug\net6.0\LinqQuerySyntax.exe
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\bin\Debug\net6.0\LinqQuerySyntax.deps.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\bin\Debug\net6.0\LinqQuerySyntax.runtimeconfig.json
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\bin\Debug\net6.0\LinqQuerySyntax.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\bin\Debug\net6.0\LinqQuerySyntax.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\LinqQuerySyntax.csproj.AssemblyReference.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\LinqQuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\LinqQuerySyntax.AssemblyInfoInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\LinqQuerySyntax.AssemblyInfo.cs
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\LinqQuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\LinqQuerySyntax.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\refint\LinqQuerySyntax.dll
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\LinqQuerySyntax.pdb
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\LinqQuerySyntax.genruntimeconfig.cache
+C:\Users\jonjo\Documents\ZTM_courses\ZTM_C_Sharp\06LINQ\ZTM.DotNet\LinqQuerySyntax\obj\Debug\net6.0\ref\LinqQuerySyntax.dll
